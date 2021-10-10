@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoFence</string>
+
+    <string name="gmaps_api_key">YOUR_API_KEY</string>
+    <string name="hint_city">City</string>
+    <string name="updateGeoFence">Update</string>
+    <string name="geoFenceRadius">Radius</string>
+</resources>
